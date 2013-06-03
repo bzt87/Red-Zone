@@ -1,0 +1,21 @@
+ [
+{
+  "modid": "RZ",
+  "name": "Red-Zone",
+  "description": "A mod on redstone!",
+  "version": "0.0.1",
+  "url": "www.github.com/bzt87/Red-Zone",
+  "updateUrl": "",
+  "authorList": [
+    "Bzt",
+    "Bambz"
+  ],
+  "credits": "Bzt and Bambz",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+ ]
